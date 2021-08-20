@@ -19,7 +19,7 @@ Our approach scored 92.509 in the finals and ranked 3rd overall!
 
 ## Citing us
 
-The paper is available at: https://arxiv.org/pdf/2012.10335.pdf.
+The paper is available at: https://arxiv.org/pdf/2012.10335.pdf (extended version from Proceedings of Machine Learning Research at: http://proceedings.mlr.press/v133/sazanovich21a.html).
 
 If you want to cite this code, please use the following:
 
